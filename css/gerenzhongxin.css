@@ -180,7 +180,11 @@ body a:nth-child(6){
 	padding-left:0.75rem;
 	box-sizing:border-box;
 	text-decoration: none;
-	color: #000;  
+	color: #000;
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+	-webkit-user-select: none;
+	-moz-user-focus: none;
+	-moz-user-select: none;  
 }
 .db1 p{
 	font-size:0.22rem;

@@ -89,6 +89,10 @@ header{
 	text-align: center;
 	line-height: 0.67rem;
 	margin-top: 1.5rem;
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+	-webkit-user-select: none;
+	-moz-user-focus: none;
+	-moz-user-select: none;
 }
 .sj input{
 	display: block;
