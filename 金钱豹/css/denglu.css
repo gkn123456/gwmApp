@@ -1,0 +1,147 @@
+@import url(base.css);
+header{
+	width:100%; 
+	height:0.9rem; 
+	background:#f8b7d2 ;
+	font-size: 0.36rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.9rem;
+	position: relative;
+}
+.an{
+	width:0.98rem; 
+	height:0.5rem ;
+	background: #d1c3d4;
+	border-radius: 0.3rem;
+	position: absolute;
+	top: 0.18rem;
+	right: 0.28rem;
+	font-size: 0.26rem;
+	color: #fff;
+	text-align: center;
+	line-height: 0.5rem;
+}
+.ym{
+	width: 100%;
+	height: 12.42rem;
+	background:#f8b7d2;
+	overflow:hidden;
+}
+.y{
+	width:1.89rem; 
+	height:1.89rem ;
+	background: yellow;
+	border-radius: 50%;
+	margin: 0 auto;
+	margin-top:0.46rem;
+}
+.y img{
+	width:1.89rem; 
+	height:1.89rem ;
+	border-radius: 50%;
+}
+.sr{
+	width:5.87rem; 
+	height:3.6rem; 
+	background: ;
+	margin: 0 auto;
+	margin-top:1.44rem;
+}
+.sj{
+	width:100%; 
+	height: 0.7rem;
+	background: ;
+	border-bottom: 0.01rem solid #fff;
+	float: right;
+}
+.mm{
+	width:100%; 
+	height: 0.7rem;
+	background:;
+	border-bottom: 0.01rem solid #fff;
+	float: right;
+	margin-top: 0.2rem
+}
+.wj{
+	width:100%; 
+	height:1.4rem;
+	background: ;
+	
+}
+.wj a{
+	font-size:0.36rem; 
+	color:#fff; 
+}
+.wj i{
+	font-size:0.36rem; 
+	color:red; 
+}
+.dl{
+	display: block;
+	width:100%; 
+	height:0.67rem;
+	background: #f0d9e3;
+	border-radius:0.3rem;
+	font-size:0.38rem; 
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+	line-height: 0.67rem;
+	margin-top: 1.5rem;
+}
+.sj input{
+	display: block;
+	background: #fab9d4;
+	width:4.5rem; 
+	height:0.6rem; 
+	float: right;
+	margin-right: 0.5rem;
+	border: none;
+	outline: none;
+	padding: 0;
+	box-sizing: border-box;
+}
+.sj i{
+	display: block;
+	float: left;
+	line-height: 0.7rem;
+	color: #fff;
+	font-size:0.42rem; 
+}
+.mm i{
+	display: block;
+	float: left;
+	line-height: 0.7rem;
+	color: #fff;
+	font-size:0.42rem;
+}
+.mm input{
+	display: block;
+	width:4.5rem; 
+	height:0.6rem; 
+	float: right;
+	margin-right: 0.5rem;
+	border: none;
+	outline: none;
+	padding: 0;
+	box-sizing: border-box;
+	background: #fab9d4;
+}
+.t{
+	width:4.44rem; 
+	height:0.85rem ;
+	background:; 
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 2.44rem;
+}
+.t a{
+	display: block;
+	width:0.85rem; 
+	height:0.85rem ;
+	background:#fff;
+	border-radius: 50%;
+
+}

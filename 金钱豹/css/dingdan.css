@@ -1,0 +1,136 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+@import  url（base.css);
+header{
+	width:100%; 
+	height:0.9rem;
+	background: #fad0d0;
+	font-size:0.3rem; 
+	color:#fff; 
+	text-align: center;
+	line-height: 0.9rem;
+}
+.dd{
+	width:7.02rem; 
+	height:1.65rem;
+	margin: 0 auto;
+	margin-top: 0.64rem; 
+}
+.dds{
+	width:100%; 
+	height:1.3rem ;
+	background:; 
+}
+.dds1{
+	width:1.3rem; 
+	height:1.3rem ;
+	background:;
+	float: left; 
+}
+.dds1 img{
+	width:1.3rem; 
+	height:1.3rem ;
+}
+.dds2{
+	width:3.85rem; 
+	height:1.2rem ;
+	background:;
+	float: left;
+	margin-left: 0.37rem; 
+}
+.p1{
+	font-size:0.3rem; 
+	font-weight: bold; 
+}
+.p2{
+	font-size:0.22rem; 
+	color:#949494; 
+}
+.p3{
+	font-size:0.18rem; 
+	color:#949494; 
+}
+.dds3{
+	width:0.65rem; 
+	height:1.3rem ;
+	background:;
+	float:right; 
+}
+.p4{
+	font-size:0.2rem; 
+	color:#949494;
+	margin-top:0.16rem;  
+}
+.p5{
+	font-size:0.24rem; 
+	color:#000;
+	font-weight: bold;
+	margin-top:0.6rem; 
+}
+.ddx{
+	width:100%; 
+	height:0.35rem ;
+	background:; 
+}
+.ddxh{
+	display: block;
+	width:1.29rem; 
+	height:0.35rem ;
+	background:#fad0d0; 
+	border-radius:0.1rem;
+	float: left;
+	font-size:0.24rem; 
+	color:#fff;
+	text-decoration: none;
+	margin-left: 1.67rem;  
+}
+.ddxh1{
+	display: block;
+	width:1.29rem; 
+	height:0.35rem ;
+	background:#fad0d0; 
+	border-radius:0.1rem;
+	float: left;
+	font-size:0.24rem; 
+	color:#000;
+	text-decoration: none;
+	margin-left:0.15rem;   
+}
+.db{
+	width:7.02rem; 
+	height:1rem ;
+	background:;
+	margin: 0 auto;
+	position: fixed;
+	bottom: 0;
+	left:0.24rem;
+	display: flex;
+	justify-content: space-between;
+}
+.db a{
+	display: block;
+	width:1.57rem;
+	height: 1rem;
+	background:;
+	text-decoration: none;	 
+}
+.db a p{
+	font-size:0.22rem; 
+	color:#000;
+	line-height: 0.22rem;
+	text-align: center; 
+}
+.db a i{
+	display: block;
+	font-size:0.59rem; 
+	color:#000;
+	margin-left: 0.51rem; 
+}
+.db a:nth-child(3) i{
+	color:#fbd6d6; 
+}
+.db a:nth-child(3) p{
+	color:#fbd6d6; 
+}

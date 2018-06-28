@@ -1,0 +1,174 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+@import  url（base.css);
+header{
+	width:100%; 
+	height:0.9rem;
+	background: #4b0509;
+}
+.t{
+	width:7.02rem; 
+	height:0.9rem; 
+	background: #4b0509;
+	margin:0 auto ;
+}
+.t a{
+	display: block;
+	width:0.48rem; 
+	height:0.9rem;
+	float: left;
+	text-decoration: none;
+	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
+	-webkit-user-select: none;
+	-moz-user-focus: none;
+	-moz-user-select: none; 
+}
+.t a:nth-child(2){
+	float: right;
+}
+.t a i{
+	display: block;
+	color: #fff; 
+	font-size:0.4rem;
+	margin-top: 0.2rem; 
+}
+.tp{
+	width:100%; 
+	height:3.69rem; 
+	background:#560504 ;
+}
+.tp img{
+	display: block;
+	width:100%; 
+	height:3.69rem; 
+}
+
+.mz{
+	width:7.02rem; 
+	height:1.81rem;
+	background: ;
+	margin: 0 auto;
+	margin-top: 0.18rem;
+}
+.tpz{
+	width:5.47rem; 
+	height:1.81rem; 
+	background: ;
+	float: left;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+.p1{
+	font-size:0.3rem; 
+	color:; 
+	font-weight: bold;
+}
+.p2{
+	font-size:0.24rem; 
+	color:#b5b5b5; 
+}
+.p3{
+	font-size:0.32rem; 
+	color:red; 
+}
+.tpz1{
+	width:0.61rem; 
+	height:0.3rem; 
+	background: ;
+	border: 0.01rem solid #a72727;
+	font-size: 0.24rem;
+	color: #b5b5b5; 
+}
+.tpy{
+	width:1.55rem; 
+	height:1.81rem; 
+	background:;
+	float: left;
+}
+.tpyh{
+	display: block;
+	width:100%; 
+	height:0.33rem ;
+	background:red;
+	border-radius:0.2rem;
+	margin-top: 1.49rem;
+	font-size:0.18rem; 
+	color:#fff;
+	text-decoration: none;
+	color: #fff; 
+}
+.tpyh i{
+	font-size:0.18rem; 
+	color:#fff;
+	margin-left:0.12rem;  
+}
+.sp{
+	width:7.02rem; 
+	height:0.77rem ;
+	margin: 0 auto;
+	font-size:0.3rem; 
+	color:#aaa2a2;
+	line-height: 0.77rem;
+	font-weight: bold; 
+}
+.js{
+	width:7.02rem; 
+	height:2.28rem; 
+	background:;
+	margin: 0 auto;
+}
+.p4{
+	font-size: 0.24rem;
+	line-height: 0.4rem;
+}
+.bt{
+	width:100%;
+	height: 0.19rem;
+	background:#eae6e6; 
+}
+.wm{
+	width: 7.02rem;
+	height:0.62rem;
+	font-size:0.24rem;
+	line-height: 0.62rem; 
+
+}
+.nm{
+	width: 7.02rem;
+	height: 0.87rem;
+	margin: 0 auto;
+	margin-top: 0.4rem;
+}
+.nmz{
+	width: 0.87rem;
+	height: 0.87rem;
+	float: left;
+	border-radius: 50%;
+	background: red;
+}
+.nmz img{
+	display: block;
+	width: 0.87rem;
+	height: 0.87rem;
+	border-radius: 50%;
+}
+.nmy{
+	width: 5.97rem;
+	height: 0.87rem;
+	float: left;
+}
+.s1{
+	display: block;
+	width: 5.97rem;
+	font-size:0.24rem;
+	margin-left: 0.16rem;  
+}
+.p7{
+	display: block;
+	width: 5.44rem;
+	font-size:0.2rem;
+	margin-left: 0.16rem;
+}
