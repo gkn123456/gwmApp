@@ -19,11 +19,7 @@ header{
 	width:0.48rem; 
 	height:0.9rem;
 	float: left;
-	text-decoration: none;
-	-webkit-tap-highlight-color: rgba(255, 255, 255, 0);
-	-webkit-user-select: none;
-	-moz-user-focus: none;
-	-moz-user-select: none; 
+	text-decoration: none; 
 }
 .t a:nth-child(2){
 	float: right;
